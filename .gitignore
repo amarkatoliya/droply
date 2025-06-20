@@ -9,6 +9,7 @@
 !.yarn/plugins
 !.yarn/releases
 !.yarn/versions
+!drizzle/meta/_journal.json
 
 # testing
 /coverage
